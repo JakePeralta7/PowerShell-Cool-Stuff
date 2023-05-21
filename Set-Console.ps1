@@ -3,3 +3,6 @@
 
 # Make it Cyber
 [System.Console]::ForegroundColor = "Green"
+
+# Make some noise
+[System.Console]::Beep()
